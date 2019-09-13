@@ -30,7 +30,7 @@ sed [选项参数]  ‘command’  filename
 
 ## awk
 一个强大的文本分析工具，把文件逐行的读入，以空格为默认分隔符将每行切片，切开的部分再进行分析处理。
-###	基本用法
+###	基本用法e
 ```
 awk [选项参数] ‘pattern1{action1}  pattern2{action2}...’ filename
 ```
